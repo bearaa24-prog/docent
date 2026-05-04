@@ -1,0 +1,9 @@
+{
+  "name": "Art Curator Slide App",
+  "description": "A mobile-first art gallery application featuring zoomable images, curator details, and interactive audio guides.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
